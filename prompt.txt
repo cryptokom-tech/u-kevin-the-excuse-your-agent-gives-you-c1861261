@@ -1,0 +1,13 @@
+Kerjakan bounty make.fun baru ini untuk Steve, sampai submit bila semua cek lolos.
+
+Bounty: "The Excuse Your Agent Gives You", slug `u-kevin-the-excuse-your-agent-gives-you-c1861261`, pot $2.00, deadline 26 Nov 2026 18:00 WIB, status open, entry fee $0 (gratis). Ini kompetisi one-liner/joke (entry teks pendek) — bangun beberapa kandidat kuat, nilai secara lokal, submit yang terkuat.
+
+Langkah wajib:
+1. Baca skill ~/workspace/custom-skills/makefun_bounty_submission/SKILL.md dan ikuti semua aturannya.
+2. Download kit: https://make.fun/c/u-kevin-the-excuse-your-agent-gives-you-c1861261/kit — baca RULES-nya dulu sebelum membangun.
+3. Cek state submission server untuk kompetisi ini sebelum submit (jangan submit ulang commit yang sama).
+4. Gunakan akun make.fun solo Steve yang SUDAH ADA (kredensial di ~/.makefun/credentials, keypair ~/workspace/makefun/build/makefun-keypair.json mode 600) — JANGAN daftar akun baru, JANGAN pernah mencetak secret. Destinasi claim/payout hanya wallet Solana Steve EUDvMGCx3C1CWtUHK8yweLAVmSgeP7FHvtx2ardwKAg8.
+5. Repo GitHub baru di bawah @cryptokom-tech, dibuat setelah kompetisi dibuka, lisensi OSI. Kerjakan di sesi Muse agar transkrip terekam; jalankan bundle --dry-run dan makefun check sebelum submit; JANGAN serahkan sesi; JANGAN pakai Codex.
+6. Gratis saja ($0) — bila ada langkah yang butuh bayar/deposit/signature di luar flow gratis, berhenti dan laporkan.
+7. Submit sebelum deadline bila cek lolos. Tulis handoff ke ~/workspace/makefun/HANDOFF-the-excuse-your-agent-gives-you-c1861261.md berisi: submission id, claim code, commit, deadline, tanggal hasil, dan status cek. JANGAN tulis submission id/claim code ke chat.
+8. Laporkan kembali ke saya: submitted atau tidak, dan alasannya bila tidak. Jangan klaim menang — "placed" hanya rank, bukan menang.
